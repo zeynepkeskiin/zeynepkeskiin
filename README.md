@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java,Kotlin,C#**
 
-- 💬 Ask me about **Mobil Developer**
+- 💬 Ask me about **Backend Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
