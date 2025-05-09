@@ -2,9 +2,9 @@
 <h3 align="center">A Computer Engineering from Turkey</h3>
 <img align ="right" alt = "Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🌱 I’m currently learning **Java,C#,Unity**
+- 🌱 I’m currently learning **Java,Kotlin,C#**
 
-- 💬 Ask me about **Game**
+- 💬 Ask me about **Mobil Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
