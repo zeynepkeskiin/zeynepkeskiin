@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering from Turkey</h3>
 <img align ="right" alt = "Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🌱 I’m currently learning **Java,Kotlin,C#**
+- 🌱 I’m currently learning **Java,Kotlin,Python**
 
 - 💬 Ask me about **Backend Developer**
 
